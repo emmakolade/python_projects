@@ -6,6 +6,7 @@
 # print("my name is {}".format(Name))
 # print(f"my name is " + name)
 
+MADLIB = input("this is a madlib game, press enter to start")
 
 food = input("enter any special meal: ")
 market = input("enter any market of your choice: ")
